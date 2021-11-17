@@ -16,9 +16,9 @@ on:
 env:
   MANIFEST: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git
   MANIFEST_BRANCH: twrp-10.0
-  DEVICE: a31
-  DT_LINK: https://github.com/shanuoon/device_samsung_a31.git
-  DT_PATH: device/samsung/a31
+  DEVICE: a02q
+  DT_LINK: https://github.com/mohammad92/android_device_samsung_a02q.git
+  DT_PATH: device/samsung/a02q
   TARGET: recoveryimage
   TZ: Asia/Kolkata
 
